@@ -1,0 +1,21 @@
+html{
+ scroll-behavior: smooth;
+}
+body {
+  margin: 0;
+}
+.menu_active{
+ font-weight: bolder;
+ border-bottom: 1px solid grey;
+}
+.pulse{
+ animation: pulse 3s linear infinite;
+}
+@keyframes pulse{
+ 0%,100%{
+  opacity: 0.7;
+ }
+ 50%{
+  opacity: 0.2;
+ }
+}
