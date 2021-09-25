@@ -1,0 +1,38 @@
+[
+{
+ "name":"HTML 5",
+ "img":"html.png"
+},
+{
+ "name": "CSS 3",
+ "img": "css.png"
+},
+{
+ "name": "WordPress",
+ "img": "wordpress.png"
+},
+{
+ "name": "C-Sharp",
+ "img": "csharp.png"
+},
+{
+ "name": "C++",
+ "img": "cpp.png"
+},
+{
+ "name": "Freelance",
+ "img": "freelance.png"
+},
+{
+ "name": "Vue js",
+ "img": "vue.png"
+},
+{
+ "name": "Angular js",
+ "img": "angular.png"
+},
+{
+ "name": "React js (jsx)",
+ "img": "react.png"
+}
+]

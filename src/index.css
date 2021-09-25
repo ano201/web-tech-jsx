@@ -19,3 +19,12 @@ body {
   opacity: 0.2;
  }
 }
+.in{
+ overflow: hidden;
+}
+.in img{
+ transition: 2s;
+}
+.in:hover img{
+ transform: scale(1.3);
+}
