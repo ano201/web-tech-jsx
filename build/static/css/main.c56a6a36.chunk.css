@@ -1,0 +1,2 @@
+html{scroll-behavior:smooth}body{margin:0}.menu_active{font-weight:bolder;border-bottom:1px solid grey}.pulse{-webkit-animation:pulse 3s linear infinite;animation:pulse 3s linear infinite}@-webkit-keyframes pulse{0%,to{opacity:.7}50%{opacity:.2}}@keyframes pulse{0%,to{opacity:.7}50%{opacity:.2}}.in{overflow:hidden}.in img{transition:2s}.in:hover img{-webkit-transform:scale(1.3);transform:scale(1.3)}.hover-gray{transition:1s}.hover-gray:hover{background:rgba(218,218,222,.7019607843137254)}
+/*# sourceMappingURL=main.c56a6a36.chunk.css.map */

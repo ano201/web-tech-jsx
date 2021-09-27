@@ -14,16 +14,16 @@ const Navbar = () => {
            </button>
            <div className="collapse navbar-collapse" id="navbarNav">
              <ul className="navbar-nav ms-auto">
-               <li className="nav-item">
+               <li className="nav-item hover-gray">
                  <NavLink exact activeClassName='menu_active' className="nav-link active" aria-current="page" to="/">Home</NavLink>
                </li>
-               <li className="nav-item">
+               <li className="nav-item hover-gray">
                  <NavLink exact activeClassName='menu_active' className="nav-link" to="/about">About</NavLink>
                </li>
-               <li className="nav-item">
+               <li className="nav-item hover-gray">
                  <NavLink exact activeClassName='menu_active' className="nav-link" to="/service">Service</NavLink>
                </li>
-               <li className="nav-item">
+               <li className="nav-item hover-gray">
                  <NavLink exact activeClassName='menu_active' className="nav-link" to="/contact">Contact</NavLink>
                </li>
              </ul>

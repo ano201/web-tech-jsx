@@ -28,3 +28,9 @@ body {
 .in:hover img{
  transform: scale(1.3);
 }
+.hover-gray{
+ transition: 1s;
+}
+.hover-gray:hover{
+ background: #DADADEB3;
+}
