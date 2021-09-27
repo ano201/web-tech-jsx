@@ -5,8 +5,8 @@ const Card = (props) => {
 
  return (
   <>
-   <div className="card border border-info col-md-3 m-3 py-2">
-    <div className='in'>
+   <div className="card border border-info col-md-3 m-3 py-2 in">
+    <div style={{overflow:'hidden'}}>
      <img src={img} className="card-img-top" alt="..." />
     </div>
     <div className="card-body">
