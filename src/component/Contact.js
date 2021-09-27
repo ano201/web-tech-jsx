@@ -1,5 +1,6 @@
 import React from 'react';
 import contactImg from '../img/contact.jpeg';
+import ContactLink from './ContactLink.js';
 const Contact = () => {
 
 
@@ -11,7 +12,7 @@ const Contact = () => {
      <img src={contactImg} className='img-fluid' alt=''/>
     </div>
     <div className='col-md-6 my-3 order-md-1 order-2'>
-    <h4 className='mb-3'>Contact form</h4>
+    <h4 className='mb-3'>Subscription</h4>
      <div className="mb-3">
     <label for="exampleFormControlInput1" className="form-label">Your Email</label>
     <input type="email" className="form-control" id="exampleFormControlInput1" placeholder="name@example.com" />
@@ -23,6 +24,7 @@ const Contact = () => {
      <button type="button" className="btn btn-info mb-3">Send</button>
     </div>
    </div>
+   <ContactLink />
   </div>
  )
 

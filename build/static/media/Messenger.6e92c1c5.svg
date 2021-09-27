@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Messenger</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Social_icons" transform="translate(-800.000000, -200.000000)">
+            <g id="Messenger" transform="translate(800.000000, 200.000000)">
+                <path d="M0,30 C0,13.4314567 13.4314567,0 30,0 C46.5685433,0 60,13.4314567 60,30 C60,46.5685433 46.5685433,60 30,60 C13.4314567,60 0,46.5685433 0,30 Z" id="back" fill="#FFFFFF"></path>
+                <path d="M30,12 C20.0588571,12 12,19.4618889 12,28.6666667 C12,33.9116667 14.6174907,38.5901111 18.7080745,41.6452222 L18.7080745,48 L24.8369068,44.6363333 C26.472559,45.089 28.2053665,45.3333333 30,45.3333333 C39.9411429,45.3333333 48,37.8714444 48,28.6666667 C48,19.4618889 39.9411429,12 30,12 L30,12 Z M31.3157895,34 L26.8038278,29.3191489 L18,34 L27.6842105,24 L32.3062201,28.6808511 L41,24 L31.3157895,34 L31.3157895,34 Z" id="Shape" fill="#0084FF"></path>
+            </g>
+        </g>
+    </g>
+</svg>
