@@ -23,7 +23,7 @@ const ContactLink = ()=> {
      </a>
     </div>
     <div>
-     <a href='https://wa.me/01793950201'>
+     <a href='https://wa.me/+8801793950201'>
       <img className='img-fluid' src={wapp} alt='' />
      </a>
     </div>
