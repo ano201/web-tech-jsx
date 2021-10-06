@@ -5,6 +5,7 @@ import About from './component/About';
 import Service from './component/Service';
 import Contact from './component/Contact';
 import Footer from './component/Footer';
+import NotFound from './component/NotFound';
 import {Switch, Route, Redirect} from 'react-router-dom';
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
       <Route exact path='/about' component={About} />
       <Route exact path='/service' component={Service} />
       <Route exact path='/contact' component={Contact} />
+      <Route component={NotFound} />
       <Redirect to='/' />
      </Switch>
      <Footer />
